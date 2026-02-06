@@ -20,6 +20,9 @@
 | 1470 | Shuffle the Array | Easy | Array | [Python](./1470Shuffle%20the%20Array.py) |
 | 1572 | Matrix Diagonal Sum | Easy | Matrix | [Python](./1572Matrix%20Diagonal%20Sum.py) |
 | 1672 | Richest Customer Wealth | Easy | Matrix | [Python](./1672Richest%20Customer%20Wealth.py) |
+| 141 | Linked List Cycle | Easy | Linked List (Two Pointers) | [Python](./141Linked%20List%20Cycle.py) |
+| 206 | Reverse Linked List | Easy | Linked List | [Python](./206Reverse%20Linked%20List.py) |
+| 876 | Middle of the Linked List | Easy | Linked List (Two Pointers) | [Python](./876Middle%20of%20the%20Linked%20List.py) |
 
 ## 🛠 Инструменты
 * **Язык:** Python 3.x
