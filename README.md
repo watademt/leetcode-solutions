@@ -23,6 +23,9 @@
 | 141 | Linked List Cycle | Easy | Linked List (Two Pointers) | [Python](./141Linked%20List%20Cycle.py) |
 | 206 | Reverse Linked List | Easy | Linked List | [Python](./206Reverse%20Linked%20List.py) |
 | 876 | Middle of the Linked List | Easy | Linked List (Two Pointers) | [Python](./876Middle%20of%20the%20Linked%20List.py) |
+| 19 | Remove N-th Node From End | Medium | Two Pointers | [Python](./19Remove%20N-th%20Node.py) |
+| 21 | Merge Two Sorted Lists | Easy | Linked List | [Python](./21Merge%20Two%20Lists.py) |
+| 234 | Palindrome Linked List | Easy | Two Pointers / Linked List | [Python](./234Palindrome%20List.py) |
 
 ## 🛠 Инструменты
 * **Язык:** Python 3.x
