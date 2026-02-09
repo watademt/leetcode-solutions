@@ -3,12 +3,13 @@
 
 class Solution(object):
     def twoSum(self, nums, target):
-        seen = {}
+        my_dict = {}
         for i, num in enumerate(nums):
-            complement = target - num
-            if complement in seen:
-                return [seen[complement], i]
-            seen[num] = i
+            diff = target - num
+            if diff in my_dict:
+                return [my_dict[diff],i]
+            else:
+                my_dict[num] = i
 
 # --- Примеры для проверки ---
 if __name__ == "__main__":
