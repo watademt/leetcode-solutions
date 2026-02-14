@@ -32,6 +32,7 @@
 ### **Bit Manipulation & Math (Оптимизация)**
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
+| 268 | Missing Number | Easy | Math / Sum | [Python](./Python/268_Missing_Number.py) |
 | 136 | Single Number | Easy | XOR / Bit Manipulation | [Python](./Python/136_Single_Number.py) |
 | 169 | Majority Element | Easy | Boyer-Moore Voting Algo | [Python](./Python/169_Majority_Element.py) |
 | 645 | Set Mismatch | Easy | Math / Set | [Python](./Python/645_Set_Mismatch.py) |
@@ -48,6 +49,7 @@
 ### **Стеки и Словари (Hash Tables)**
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
+| 349 | Intersection of Two Arrays | Easy | Set / Intersection | [Python](./Python/349_Intersection_Arrays.py) |
 | 1 | Two Sum | Easy | Hash Table (Dict) | [Python](./Python/1_Two_Sum.py) |
 | 20 | Valid Parentheses | Easy | Stack / Dict | [Python](./Python/20_Valid_Parentheses.py) |
 | 217 | Contains Duplicate | Easy | Hash Set | [Python](./Python/217_Duplicate.py) |
@@ -82,6 +84,11 @@
 
 ## 🗄 SQL: Работа с данными
 
+### **Control Flow (Условная логика)**
+| # | Название задачи | Тема | Решение |
+|---|-----------------|------|---------|
+| 1873 | Calculate Special Bonus | CASE WHEN | [.sql](./SQL/Control_Flow/1873_Calculate_Special_Bonus.sql) |
+
 ### **Window Functions (Оконные функции)**
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
@@ -90,6 +97,7 @@
 ### **String Functions (Работа со строками)**
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
+| 1527 | Patients With a Condition | LIKE / Pattern | [.sql](./SQL/String_Functions/1527_Patients_Condition.sql) |
 | 1667 | Fix Names in a Table | CONCAT / SUBSTRING | [.sql](./SQL/String_Functions/1667_Fix_Names.sql) |
 
 ### **Aggregation (Группировка)**
