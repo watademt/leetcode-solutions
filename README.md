@@ -49,6 +49,7 @@
 ### **Стеки и Словари (Hash Tables)**
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
+| 219 | Contains Duplicate II | Easy | Hash Map / Sliding Window | [Python](./Python/219_Contains_Duplicate_II.py) |
 | 349 | Intersection of Two Arrays | Easy | Set / Intersection | [Python](./Python/349_Intersection_Arrays.py) |
 | 1 | Two Sum | Easy | Hash Table (Dict) | [Python](./Python/1_Two_Sum.py) |
 | 20 | Valid Parentheses | Easy | Stack / Dict | [Python](./Python/20_Valid_Parentheses.py) |
@@ -87,7 +88,13 @@
 ### **Control Flow (Условная логика)**
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
+| 626 | Exchange Seats | CASE / Modulo | [.sql](./SQL/Control_Flow/626_Exchange_Seats.sql) |
 | 1873 | Calculate Special Bonus | CASE WHEN | [.sql](./SQL/Control_Flow/1873_Calculate_Special_Bonus.sql) |
+
+### **Subqueries (Подзапросы)**
+| # | Название задачи | Тема | Решение |
+|---|-----------------|------|---------|
+| 1978 | Employees Manager Left | Subquery / NOT IN | [.sql](./SQL/Subqueries/1978_Employees_Manager_Left.sql) |
 
 ### **Window Functions (Оконные функции)**
 | # | Название задачи | Тема | Решение |
