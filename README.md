@@ -49,6 +49,7 @@
 ### **Стеки и Словари (Hash Tables)**
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
+| 387 | First Unique Character in a String | Easy | Hash Table / Counting | [Python](./Python/387_First_Unique_Character.py) |
 | 219 | Contains Duplicate II | Easy | Hash Map / Sliding Window | [Python](./Python/219_Contains_Duplicate_II.py) |
 | 349 | Intersection of Two Arrays | Easy | Set / Intersection | [Python](./Python/349_Intersection_Arrays.py) |
 | 1 | Two Sum | Easy | Hash Table (Dict) | [Python](./Python/1_Two_Sum.py) |
@@ -119,6 +120,7 @@
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
 | 1661 | Average Time of Process | Self Join / AVG | [.sql](./SQL/Basic_Joins/1661_Average_Time.sql) |
+| 1581 | Customer Who Visited but Did Not Make Any Transactions | Left Join / IS NULL | [.sql](./SQL/Basic_Joins/1581_Customer_No_Transactions.sql) |
 | 1378 | Replace Employee ID | Left Join | [.sql](./SQL/Basic_Joins/1378_Left_Join.sql) |
 | 1068 | Product Sales Analysis I | Inner Join | [.sql](./SQL/Basic_Joins/1068_Product_Sales.sql) |
 | 577 | Employee Bonus | Left Join / NULL logic | [.sql](./SQL/Basic_Joins/577_Employee_Bonus.sql) |
