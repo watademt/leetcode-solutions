@@ -69,6 +69,7 @@
 ### **Двух указателей (Two Pointers) и Строки**
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
+| 26 | Remove Duplicates from Sorted Array | Easy | Array / Two Pointers | [Python](./Python/26_Remove_Duplicates.py) |
 | 125 | Valid Palindrome | Easy | String / Two Pointers | [Python](./Python/125_Palindrome.py) |
 
 ### **Бинарный поиск и Матрицы**
@@ -117,6 +118,7 @@
 ### **Basic Joins (Объединения)**
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
+| 1661 | Average Time of Process | Self Join / AVG | [.sql](./SQL/Basic_Joins/1661_Average_Time.sql) |
 | 1378 | Replace Employee ID | Left Join | [.sql](./SQL/Basic_Joins/1378_Left_Join.sql) |
 | 1068 | Product Sales Analysis I | Inner Join | [.sql](./SQL/Basic_Joins/1068_Product_Sales.sql) |
 | 577 | Employee Bonus | Left Join / NULL logic | [.sql](./SQL/Basic_Joins/577_Employee_Bonus.sql) |
