@@ -70,6 +70,7 @@
 ### **Двух указателей (Two Pointers) и Строки**
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
+| 14 | Longest Common Prefix | Easy | String / Array | [Python](./Python/14_Longest_Common_Prefix.py) |
 | 26 | Remove Duplicates from Sorted Array | Easy | Array / Two Pointers | [Python](./Python/26_Remove_Duplicates.py) |
 | 125 | Valid Palindrome | Easy | String / Two Pointers | [Python](./Python/125_Palindrome.py) |
 
@@ -106,6 +107,7 @@
 ### **String Functions (Работа со строками)**
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
+| 1683 | Invalid Tweets | LENGTH / Filtering | [.sql](./SQL/String_Functions/1683_Invalid_Tweets.sql) |
 | 1527 | Patients With a Condition | LIKE / Pattern | [.sql](./SQL/String_Functions/1527_Patients_Condition.sql) |
 | 1667 | Fix Names in a Table | CONCAT / SUBSTRING | [.sql](./SQL/String_Functions/1667_Fix_Names.sql) |
 
