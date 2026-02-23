@@ -49,6 +49,7 @@
 ### **Стеки и Словари (Hash Tables)**
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
+| 1047 | Remove All Adjacent Duplicates In String | Easy | Stack | [Python](./Python/1047_Remove_Adjacent_Duplicates.py) |
 | 387 | First Unique Character in a String | Easy | Hash Table / Counting | [Python](./Python/387_First_Unique_Character.py) |
 | 219 | Contains Duplicate II | Easy | Hash Map / Sliding Window | [Python](./Python/219_Contains_Duplicate_II.py) |
 | 349 | Intersection of Two Arrays | Easy | Set / Intersection | [Python](./Python/349_Intersection_Arrays.py) |
@@ -102,6 +103,7 @@
 ### **Window Functions (Оконные функции)**
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
+| 180 | Consecutive Numbers | LAG / LEAD | [.sql](./SQL/Window_Functions/180_Consecutive_Numbers.sql) |
 | 178 | Rank Scores | DENSE_RANK | [.sql](./SQL/Window_Functions/178_Rank_Scores.sql) |
 
 ### **String Functions (Работа со строками)**
