@@ -78,6 +78,7 @@
 ### **Бинарный поиск и Матрицы**
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
+| 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search | [Python](./Python/153_Find_Minimum_in_Rotated_Sorted_Array.py) |
 | 704 | Binary Search | Easy | Binary Search | [Python](./Python/704_Binary_Search.py) |
 | 35 | Search Insert Position | Easy | Binary Search | [Python](./Python/35_Search_Insert.py) |
 | 278 | First Bad Version | Easy | Binary Search | [Python](./Python/278_Bad_Version.py) |
@@ -89,16 +90,17 @@
 
 ## 🗄 SQL: Работа с данными
 
+### **CTE (Common Table Expressions) & Subqueries**
+| # | Название задачи | Тема | Решение |
+|---|-----------------|------|---------|
+| 1070 | Product Sales Analysis III | CTE / Joins | [.sql](./SQL/CTE_and_Subqueries/1070_Product_Sales_Analysis_III.sql) |
+| 1978 | Employees Manager Left | Subquery / NOT IN | [.sql](./SQL/CTE_and_Subqueries/1978_Employees_Manager_Left.sql) |
+
 ### **Control Flow (Условная логика)**
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
 | 626 | Exchange Seats | CASE / Modulo | [.sql](./SQL/Control_Flow/626_Exchange_Seats.sql) |
 | 1873 | Calculate Special Bonus | CASE WHEN | [.sql](./SQL/Control_Flow/1873_Calculate_Special_Bonus.sql) |
-
-### **Subqueries (Подзапросы)**
-| # | Название задачи | Тема | Решение |
-|---|-----------------|------|---------|
-| 1978 | Employees Manager Left | Subquery / NOT IN | [.sql](./SQL/Subqueries/1978_Employees_Manager_Left.sql) |
 
 ### **Window Functions (Оконные функции)**
 | # | Название задачи | Тема | Решение |
