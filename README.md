@@ -71,6 +71,7 @@
 ### **Двух указателей (Two Pointers) и Строки**
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
+| 167 | Two Sum II - Input Array Is Sorted | Medium | Two Pointers | [Python](./Python/167_Two_Sum_II.py) |
 | 14 | Longest Common Prefix | Easy | String / Array | [Python](./Python/14_Longest_Common_Prefix.py) |
 | 26 | Remove Duplicates from Sorted Array | Easy | Array / Two Pointers | [Python](./Python/26_Remove_Duplicates.py) |
 | 125 | Valid Palindrome | Easy | String / Two Pointers | [Python](./Python/125_Palindrome.py) |
@@ -118,6 +119,8 @@
 ### **Aggregation (Группировка)**
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
+| 1193 | Monthly Transactions I | DATE_FORMAT / CASE | [.sql](./SQL/Aggregation/1193_Monthly_Transactions_I.sql) |
+| 1484 | Group Sold Products | GROUP_CONCAT | [.sql](./SQL/Aggregation/1484_Group_Products.sql) |
 | 1141 | User Activity 30 Days | Group By / Date | [.sql](./SQL/Aggregation/1141_User_Activity.sql) |
 | 596 | Classes > 5 Students | Group By / Having | [.sql](./SQL/Aggregation/596_Classes_More_Than_5.sql) |
 | 511 | Game Play Analysis I | Min / Group By | [.sql](./SQL/Aggregation/511_Game_Play_Analysis.sql) |
