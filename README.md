@@ -61,6 +61,7 @@
 ### **Связанные списки (Linked Lists)**
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
+| 142 | Linked List Cycle II | Medium | Fast/Slow Pointers | [Python](./Python/142_Linked_List_Cycle_II.py) |
 | 21 | Merge Two Sorted Lists | Easy | Dummy Node | [Python](./Python/21_Merge_Lists.py) |
 | 19 | Remove N-th Node | Medium | Two Pointers | [Python](./Python/19_Remove_Nth.py) |
 | 234 | Palindrome List | Easy | Slow/Fast Pointers | [Python](./Python/234_Palindrome.py) |
@@ -119,6 +120,7 @@
 ### **Aggregation (Группировка)**
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
+| 1050 | Actors and Directors Who Cooperated | Group By / Having | [.sql](./SQL/Aggregation/1050_Actors_Directors.sql) |
 | 1193 | Monthly Transactions I | DATE_FORMAT / CASE | [.sql](./SQL/Aggregation/1193_Monthly_Transactions_I.sql) |
 | 1484 | Group Sold Products | GROUP_CONCAT | [.sql](./SQL/Aggregation/1484_Group_Products.sql) |
 | 1141 | User Activity 30 Days | Group By / Date | [.sql](./SQL/Aggregation/1141_User_Activity.sql) |
