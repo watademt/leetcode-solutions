@@ -77,6 +77,7 @@
 ### **Двух указателей (Two Pointers) и Строки**
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
+| 392 | Is Subsequence | Easy | Two Pointers | [Python](./Python/392_Is_Subsequence.py) |
 | 167 | Two Sum II - Input Array Is Sorted | Medium | Two Pointers | [Python](./Python/167_Two_Sum_II.py) |
 | 14 | Longest Common Prefix | Easy | String / Array | [Python](./Python/14_Longest_Common_Prefix.py) |
 | 26 | Remove Duplicates from Sorted Array | Easy | Array / Two Pointers | [Python](./Python/26_Remove_Duplicates.py) |
@@ -96,6 +97,11 @@
 ---
 
 ## 🗄 SQL: Работа с данными
+
+### **Data Manipulation (Изменение данных)**
+| # | Название задачи | Тема | Решение |
+|---|-----------------|------|---------|
+| 196 | Delete Duplicate Emails | DELETE / Self Join | [.sql](./SQL/Data_Manipulation/196_Delete_Duplicate_Emails.sql) |
 
 ### **CTE (Common Table Expressions) & Subqueries**
 | # | Название задачи | Тема | Решение |
