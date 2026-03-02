@@ -18,6 +18,11 @@
 
 ## 🐍 Python: Алгоритмы и структуры данных
 
+### **Бинарные деревья (Trees)**
+| # | Название задачи | Сложность | Тема | Решение |
+|---|-----------------|-----------|------|---------|
+| 226 | Invert Binary Tree | Easy | Tree / DFS / Recursion | [Python](./Python/Trees/226_Invert_Binary_Tree.py) |
+
 ### **Dynamic Programming (Динамическое программирование)**
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
@@ -118,6 +123,7 @@
 ### **Window Functions (Оконные функции)**
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
+| 1321 | Restaurant Growth | ROWS BETWEEN / CTE | [.sql](./SQL/Window_Functions/1321_Restaurant_Growth.sql) |
 | 185 | Department Top Three Salaries | DENSE_RANK / CTE | [.sql](./SQL/Window_Functions/185_Department_Top_Three.sql) |
 | 180 | Consecutive Numbers | LAG / LEAD | [.sql](./SQL/Window_Functions/180_Consecutive_Numbers.sql) |
 | 178 | Rank Scores | DENSE_RANK | [.sql](./SQL/Window_Functions/178_Rank_Scores.sql) |
