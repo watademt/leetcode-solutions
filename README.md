@@ -21,6 +21,7 @@
 ### **Бинарные деревья (Trees)**
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
+| 104 | Maximum Depth of Binary Tree | Easy | Tree / DFS / Recursion | [Python](./Python/Trees/104_Maximum_Depth_Binary_Tree.py) |
 | 226 | Invert Binary Tree | Easy | Tree / DFS / Recursion | [Python](./Python/Trees/226_Invert_Binary_Tree.py) |
 
 ### **Dynamic Programming (Динамическое программирование)**
@@ -138,6 +139,7 @@
 ### **Aggregation (Группировка)**
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
+| 1934 | Confirmation Rate | LEFT JOIN / CASE WHEN | [.sql](./SQL/Aggregation/1934_Confirmation_Rate.sql) |
 | 1050 | Actors and Directors Who Cooperated | Group By / Having | [.sql](./SQL/Aggregation/1050_Actors_Directors.sql) |
 | 1193 | Monthly Transactions I | DATE_FORMAT / CASE | [.sql](./SQL/Aggregation/1193_Monthly_Transactions_I.sql) |
 | 1484 | Group Sold Products | GROUP_CONCAT | [.sql](./SQL/Aggregation/1484_Group_Products.sql) |
