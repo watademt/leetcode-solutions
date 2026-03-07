@@ -21,6 +21,9 @@
 ### **Бинарные деревья (Trees)**
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
+| 199 | Binary Tree Right Side View | Medium | Tree / BFS / Queue | [Python](./Python/Trees/199_Binary_Tree_Right_Side_View.py) |
+| 102 | Binary Tree Level Order Traversal | Medium | Tree / BFS / Queue | [Python](./Python/Trees/102_Binary_Tree_Level_Order_Traversal.py) |
+| 101 | Symmetric Tree | Easy | Tree / Mirror Recursion | [Python](./Python/Trees/101_Symmetric_Tree.py) |
 | 100 | Same Tree | Easy | Tree / DFS / Recursion | [Python](./Python/Trees/100_Same_Tree.py) |
 | 104 | Maximum Depth of Binary Tree | Easy | Tree / DFS / Recursion | [Python](./Python/Trees/104_Maximum_Depth_Binary_Tree.py) |
 | 226 | Invert Binary Tree | Easy | Tree / DFS / Recursion | [Python](./Python/Trees/226_Invert_Binary_Tree.py) |
@@ -140,6 +143,8 @@
 ### **Aggregation (Группировка)**
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
+| 570 | Managers with at Least 5 Direct Reports | Medium | CTE / HAVING / JOIN | [.sql](./SQL/Aggregation/570_Managers_with_at_Least_5_Direct_Reports.sql) |
+| 550 | Game Play Analysis IV | Medium | CTE / LEFT JOIN / Retention | [.sql](./SQL/Aggregation/550_Game_Play_Analysis_IV.sql) |
 | 1211 | Queries Quality and Percentage | Group By / CASE WHEN | [.sql](./SQL/Aggregation/1211_Queries_Quality_Percentage.sql) |
 | 1934 | Confirmation Rate | LEFT JOIN / CASE WHEN | [.sql](./SQL/Aggregation/1934_Confirmation_Rate.sql) |
 | 1050 | Actors and Directors Who Cooperated | Group By / Having | [.sql](./SQL/Aggregation/1050_Actors_Directors.sql) |
