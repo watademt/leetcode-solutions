@@ -18,6 +18,11 @@
 
 ## 🐍 Python: Алгоритмы и структуры данных
 
+### **Графы и Матрицы (Graphs & Matrices)**
+| # | Название задачи | Сложность | Тема | Решение |
+|---|-----------------|-----------|------|---------|
+| 200 | Number of Islands | Medium | Matrix / DFS / Grid Traversal | [Python](./Python/Graphs/200_Number_of_Islands.py) |****
+
 ### **Бинарные деревья (Trees)**
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
@@ -143,6 +148,7 @@
 ### **Aggregation (Группировка)**
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
+| 1045 | Customers Who Bought All Products | Medium | GROUP BY / Subquery | [.sql](./SQL/Aggregation/1045_Customers_Who_Bought_All_Products.sql) |
 | 570 | Managers with at Least 5 Direct Reports | Medium | CTE / HAVING / JOIN | [.sql](./SQL/Aggregation/570_Managers_with_at_Least_5_Direct_Reports.sql) |
 | 550 | Game Play Analysis IV | Medium | CTE / LEFT JOIN / Retention | [.sql](./SQL/Aggregation/550_Game_Play_Analysis_IV.sql) |
 | 1211 | Queries Quality and Percentage | Group By / CASE WHEN | [.sql](./SQL/Aggregation/1211_Queries_Quality_Percentage.sql) |
