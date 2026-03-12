@@ -22,6 +22,7 @@
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
 | 200 | Number of Islands | Medium | Matrix / DFS / Grid Traversal | [Python](./Python/Graphs/200_Number_of_Islands.py) |****
+| 994 | Rotting Oranges | Medium | Matrix / Multi-source BFS | [Python](./Python/Graphs/994_Rotting_Oranges.py) |
 
 ### **Бинарные деревья (Trees)**
 | # | Название задачи | Сложность | Тема | Решение |
@@ -112,6 +113,11 @@
 ---
 
 ## 🗄 SQL: Работа с данными
+
+### **Control Flow & UNION (Условная логика и Объединения)**
+| # | Название задачи | Тема | Решение |
+|---|-----------------|------|---------|
+| 1907 | Count Salary Categories | UNION ALL / COUNT | [.sql](./SQL/Aggregation/1907_Count_Salary_Categories.sql) |
 
 ### **Data Manipulation (Изменение данных)**
 | # | Название задачи | Тема | Решение |
