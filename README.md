@@ -22,6 +22,7 @@
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
 | 200 | Number of Islands | Medium | Matrix / DFS / Grid Traversal | [Python](./Python/Graphs/200_Number_of_Islands.py) |****
+| 130 | Surrounded Regions | Medium | Matrix / DFS / Reverse Thinking | [Python](./Python/Graphs/130_Surrounded_Regions.py) |
 | 994 | Rotting Oranges | Medium | Matrix / Multi-source BFS | [Python](./Python/Graphs/994_Rotting_Oranges.py) |
 
 ### **Бинарные деревья (Trees)**
@@ -154,6 +155,7 @@
 ### **Aggregation (Группировка)**
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
+| 1174 | Immediate Food Delivery II | Medium | CTE / LEFT JOIN / Fractions | [.sql](./SQL/Aggregation/1174_Immediate_Food_Delivery_II.sql) |
 | 1045 | Customers Who Bought All Products | Medium | GROUP BY / Subquery | [.sql](./SQL/Aggregation/1045_Customers_Who_Bought_All_Products.sql) |
 | 570 | Managers with at Least 5 Direct Reports | Medium | CTE / HAVING / JOIN | [.sql](./SQL/Aggregation/570_Managers_with_at_Least_5_Direct_Reports.sql) |
 | 550 | Game Play Analysis IV | Medium | CTE / LEFT JOIN / Retention | [.sql](./SQL/Aggregation/550_Game_Play_Analysis_IV.sql) |
