@@ -42,6 +42,7 @@
 | 118 | Pascal's Triangle | Easy | Array Construction / DP | [Python](./Python/DP/118_Pascals_Triangle.py) |
 | 198 | House Robber | Medium | 1D DP / O(1) Space | [Python](./Python/DP/198_House_Robber.py) |
 | 213 | House Robber II | Medium | 1D DP / DRY Principle | [Python](./Python/DP/213_House_Robber_II.py) |
+| 322 | Coin Change | Medium | 1D DP / Bottom-Up | [Python](./Python/DP/322_Coin_Change.py) |
 
 ### **Sliding Window (Скользящее окно)**
 | # | Название задачи | Сложность | Тема | Решение |
