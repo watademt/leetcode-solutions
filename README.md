@@ -24,6 +24,7 @@
 | 200 | Number of Islands | Medium | Matrix / DFS / Grid Traversal | [Python](./Python/Graphs/200_Number_of_Islands.py) |****
 | 130 | Surrounded Regions | Medium | Matrix / DFS / Reverse Thinking | [Python](./Python/Graphs/130_Surrounded_Regions.py) |
 | 994 | Rotting Oranges | Medium | Matrix / Multi-source BFS | [Python](./Python/Graphs/994_Rotting_Oranges.py) |
+| 695 | Max Area of Island | Medium | Matrix / DFS / Grid Traversal | [Python](./Python/Graphs/695_Max_Area_of_Island.py) |
 
 ### **Бинарные деревья (Trees)**
 | # | Название задачи | Сложность | Тема | Решение |
