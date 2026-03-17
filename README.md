@@ -44,6 +44,7 @@
 | 198 | House Robber | Medium | 1D DP / O(1) Space | [Python](./Python/DP/198_House_Robber.py) |
 | 213 | House Robber II | Medium | 1D DP / DRY Principle | [Python](./Python/DP/213_House_Robber_II.py) |
 | 322 | Coin Change | Medium | 1D DP / Bottom-Up | [Python](./Python/DP/322_Coin_Change.py) |
+| 279 | Perfect Squares | Medium | 1D DP / Bottom-Up | [Python](./Python/DP/279_Perfect_Squares.py) |
 
 ### **Sliding Window (Скользящее окно)**
 | # | Название задачи | Сложность | Тема | Решение |
@@ -148,6 +149,7 @@
 | 185 | Department Top Three Salaries | DENSE_RANK / CTE | [.sql](./SQL/Window_Functions/185_Department_Top_Three.sql) |
 | 180 | Consecutive Numbers | LAG / LEAD | [.sql](./SQL/Window_Functions/180_Consecutive_Numbers.sql) |
 | 178 | Rank Scores | DENSE_RANK | [.sql](./SQL/Window_Functions/178_Rank_Scores.sql) |
+| 1204 | Last Person to Fit in the Bus | SUM OVER / Running Total | [.sql](./SQL/Window_Functions/1204_Last_Person_to_Fit_in_the_Bus.sql) |
 
 ### **String Functions (Работа со строками)**
 | # | Название задачи | Тема | Решение |
