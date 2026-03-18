@@ -75,6 +75,7 @@
 |---|-----------------|-----------|------|---------|
 | 1047 | Remove All Adjacent Duplicates In String | Easy | Stack | [Python](./Python/1047_Remove_Adjacent_Duplicates.py) |
 | 20 | Valid Parentheses | Easy | Stack / Dict | [Python](./Python/20_Valid_Parentheses.py) |
+| 739 | Daily Temperatures | Medium | Stack / Monotonic Stack | [Python](./Python/739_Daily_Temperatures.py) |
 
 ### **Arrays & Greedy (Жадные алгоритмы)**
 | # | Название задачи | Сложность | Тема | Решение |
@@ -104,7 +105,7 @@
 | 14 | Longest Common Prefix | Easy | String / Array | [Python](./Python/14_Longest_Common_Prefix.py) |
 | 26 | Remove Duplicates from Sorted Array | Easy | Array / Two Pointers | [Python](./Python/26_Remove_Duplicates.py) |
 | 125 | Valid Palindrome | Easy | String / Two Pointers | [Python](./Python/125_Palindrome.py) |
-
+| 11 | Container With Most Water | Medium | Two Pointers | [Python](./Python/11_Container_With_Most_Water.py) |
 ### **Бинарный поиск и Матрицы**
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
@@ -150,7 +151,7 @@
 | 180 | Consecutive Numbers | LAG / LEAD | [.sql](./SQL/Window_Functions/180_Consecutive_Numbers.sql) |
 | 178 | Rank Scores | DENSE_RANK | [.sql](./SQL/Window_Functions/178_Rank_Scores.sql) |
 | 1204 | Last Person to Fit in the Bus | SUM OVER / Running Total | [.sql](./SQL/Window_Functions/1204_Last_Person_to_Fit_in_the_Bus.sql) |
-
+| 1164 | Product Price at a Given Date | Window Function / UNION | [.sql](./SQL/Window_Functions/1164_Product_Price_at_a_Given_Date.sql) |
 ### **String Functions (Работа со строками)**
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
