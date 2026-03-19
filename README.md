@@ -50,6 +50,7 @@
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
 | 643 | Maximum Average Subarray I | Easy | Sliding Window | [Python](./Python/643_Max_Average_Subarray.py) |
+| 209 | Minimum Size Subarray Sum | Medium | Array / Sliding Window | [Python](./Python/209_Min_Size_Subarray_Sum.py) |
 
 ### **Bit Manipulation & Math (Оптимизация)**
 | # | Название задачи | Сложность | Тема | Решение |
@@ -106,6 +107,8 @@
 | 26 | Remove Duplicates from Sorted Array | Easy | Array / Two Pointers | [Python](./Python/26_Remove_Duplicates.py) |
 | 125 | Valid Palindrome | Easy | String / Two Pointers | [Python](./Python/125_Palindrome.py) |
 | 11 | Container With Most Water | Medium | Two Pointers | [Python](./Python/11_Container_With_Most_Water.py) |
+| 15 | 3Sum | Medium | Array / Two Pointers / Sorting | [Python](./Python/15_3Sum.py) |
+
 ### **Бинарный поиск и Матрицы**
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
