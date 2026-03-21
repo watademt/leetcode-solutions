@@ -44,11 +44,13 @@
 | 198 | House Robber | Medium | 1D DP / O(1) Space | [Python](./Python/DP/198_House_Robber.py) |
 | 213 | House Robber II | Medium | 1D DP / DRY Principle | [Python](./Python/DP/213_House_Robber_II.py) |
 | 322 | Coin Change | Medium | 1D DP / Bottom-Up | [Python](./Python/DP/322_Coin_Change.py) |
+| 279 | Perfect Squares | Medium | 1D DP / Bottom-Up | [Python](./Python/DP/279_Perfect_Squares.py) |
 
 ### **Sliding Window (Скользящее окно)**
 | # | Название задачи | Сложность | Тема | Решение |
 |---|-----------------|-----------|------|---------|
 | 643 | Maximum Average Subarray I | Easy | Sliding Window | [Python](./Python/643_Max_Average_Subarray.py) |
+| 209 | Minimum Size Subarray Sum | Medium | Array / Sliding Window | [Python](./Python/209_Min_Size_Subarray_Sum.py) |
 
 ### **Bit Manipulation & Math (Оптимизация)**
 | # | Название задачи | Сложность | Тема | Решение |
@@ -74,6 +76,7 @@
 |---|-----------------|-----------|------|---------|
 | 1047 | Remove All Adjacent Duplicates In String | Easy | Stack | [Python](./Python/1047_Remove_Adjacent_Duplicates.py) |
 | 20 | Valid Parentheses | Easy | Stack / Dict | [Python](./Python/20_Valid_Parentheses.py) |
+| 739 | Daily Temperatures | Medium | Stack / Monotonic Stack | [Python](./Python/739_Daily_Temperatures.py) |
 
 ### **Arrays & Greedy (Жадные алгоритмы)**
 | # | Название задачи | Сложность | Тема | Решение |
@@ -104,6 +107,8 @@
 | 14 | Longest Common Prefix | Easy | String / Array | [Python](./Python/14_Longest_Common_Prefix.py) |
 | 26 | Remove Duplicates from Sorted Array | Easy | Array / Two Pointers | [Python](./Python/26_Remove_Duplicates.py) |
 | 125 | Valid Palindrome | Easy | String / Two Pointers | [Python](./Python/125_Palindrome.py) |
+| 11 | Container With Most Water | Medium | Two Pointers | [Python](./Python/11_Container_With_Most_Water.py) |
+| 15 | 3Sum | Medium | Array / Two Pointers / Sorting | [Python](./Python/15_3Sum.py) |
 
 ### **Бинарный поиск и Матрицы**
 | # | Название задачи | Сложность | Тема | Решение |
@@ -150,7 +155,8 @@
 | 185 | Department Top Three Salaries | DENSE_RANK / CTE | [.sql](./SQL/Window_Functions/185_Department_Top_Three.sql) |
 | 180 | Consecutive Numbers | LAG / LEAD | [.sql](./SQL/Window_Functions/180_Consecutive_Numbers.sql) |
 | 178 | Rank Scores | DENSE_RANK | [.sql](./SQL/Window_Functions/178_Rank_Scores.sql) |
-
+| 1204 | Last Person to Fit in the Bus | SUM OVER / Running Total | [.sql](./SQL/Window_Functions/1204_Last_Person_to_Fit_in_the_Bus.sql) |
+| 1164 | Product Price at a Given Date | Window Function / UNION | [.sql](./SQL/Window_Functions/1164_Product_Price_at_a_Given_Date.sql) |
 ### **String Functions (Работа со строками)**
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
