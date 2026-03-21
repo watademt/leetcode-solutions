@@ -94,6 +94,7 @@
 | 141 | Linked List Cycle | Easy | Two Pointers | [Python](./Python/141_Cycle.py) |
 | 206 | Reverse Linked List | Easy | Iterative Reverse | [Python](./Python/206_Reverse_List.py) |
 | 876 | Middle of the List | Easy | Fast/Slow Pointers | [Python](./Python/876_Middle_Node.py) |
+| 143 | Reorder List | Medium | Linked List / Two Pointers / Reverse | [Python](./Python/Linked_Lists/143_Reorder_List.py) |
 
 ### **Двух указателей (Two Pointers) и Строки**
 | # | Название задачи | Сложность | Тема | Решение |
@@ -134,6 +135,7 @@
 |---|-----------------|------|---------|
 | 1070 | Product Sales Analysis III | CTE / Joins | [.sql](./SQL/CTE_and_Subqueries/1070_Product_Sales_Analysis_III.sql) |
 | 1978 | Employees Manager Left | Subquery / NOT IN | [.sql](./SQL/CTE_and_Subqueries/1978_Employees_Manager_Left.sql) |
+| 602 | Friend Requests II: Who Has the Most Friends | Medium | UNION ALL / CTE / Aggregation | [.sql](./SQL/Aggregation/602_Friend_Requests_II.sql) |
 
 ### **Control Flow (Условная логика)**
 | # | Название задачи | Тема | Решение |
