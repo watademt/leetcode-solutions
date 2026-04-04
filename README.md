@@ -61,15 +61,16 @@
 | 645 | Set Mismatch | Easy | Math / Set | [Python](./Python/645_Set_Mismatch.py) |
 
 ### **Sets & Hash Tables (Множества и Хэш-таблицы)**
-| # | Название задачи | Сложность | Тема | Решение |
-|---|-----------------|-----------|------|---------|
-| 3 | Longest Substring Without Repeating Characters | Medium | Hash Table / Sliding Window | [Python](./Python/3_Longest_Substring.py) |
+| #   | Название задачи | Сложность | Тема | Решение |
+|-----|----------------|-----------|------|---------|
+| 3   | Longest Substring Without Repeating Characters | Medium | Hash Table / Sliding Window | [Python](./Python/3_Longest_Substring.py) |
 | 387 | First Unique Character in a String | Easy | Hash Table / Counting | [Python](./Python/387_First_Unique_Character.py) |
 | 219 | Contains Duplicate II | Easy | Hash Map / Sliding Window | [Python](./Python/219_Contains_Duplicate_II.py) |
 | 349 | Intersection of Two Arrays | Easy | Set / Intersection | [Python](./Python/349_Intersection_Arrays.py) |
-| 1 | Two Sum | Easy | Hash Table (Dict) | [Python](./Python/1_Two_Sum.py) |
+| 1   | Two Sum | Easy | Hash Table (Dict) | [Python](./Python/1_Two_Sum.py) |
 | 217 | Contains Duplicate | Easy | Hash Set | [Python](./Python/217_Duplicate.py) |
 | 242 | Valid Anagram | Easy | Hash Table | [Python](./Python/242_Anagram.py) |
+| 49  | Group Anagrams | Medium | Hash Table / Sorting | [Python](./Python/49_Group_Anagrams.py) |
 
 ### **Стеки и Очереди (Stacks & Queues)**
 | # | Название задачи | Сложность | Тема | Решение |
