@@ -87,6 +87,7 @@
 | 283 | Move Zeroes | Easy | Array / Two Pointers | [Python](./Python/283_Move_Zeroes.py) |
 | 485 | Max Consecutive Ones | Easy | Array / Counter | [Python](./Python/485_Max_Ones.py) |
 | 1470 | Shuffle the Array | Easy | Array Manipulation | [Python](./Python/1470_Shuffle.py) |
+| 238 | Product of Array Except Self | Medium | Array / Prefix Sum | [Python](./Python/238_Product_Except_Self.py) |
 
 ### **Связанные списки (Linked Lists)**
 | # | Название задачи | Сложность | Тема | Решение |
@@ -140,8 +141,8 @@
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
 | 1070 | Product Sales Analysis III | CTE / Joins | [.sql](./SQL/CTE_and_Subqueries/1070_Product_Sales_Analysis_III.sql) |
-| 1978 | Employees Manager Left | Subquery / NOT IN | [.sql](./SQL/CTE_and_Subqueries/1978_Employees_Manager_Left.sql) |
-| 602 | Friend Requests II: Who Has the Most Friends | Medium | UNION ALL / CTE / Aggregation | [.sql](./SQL/Aggregation/602_Friend_Requests_II.sql) |
+| 1978 | Employees Manager Left | Subquery / NOT IN | [.sql](./SQL/Subqueries/1978_Employees_Manager_Left.sql) |
+| 602 | Friend Requests II: Who Has the Most Friends | UNION ALL / CTE | [.sql](./SQL/Aggregation/602_Friend_Requests_II.sql) |
 
 ### **Control Flow (Условная логика)**
 | # | Название задачи | Тема | Решение |
@@ -158,6 +159,8 @@
 | 178 | Rank Scores | DENSE_RANK | [.sql](./SQL/Window_Functions/178_Rank_Scores.sql) |
 | 1204 | Last Person to Fit in the Bus | SUM OVER / Running Total | [.sql](./SQL/Window_Functions/1204_Last_Person_to_Fit_in_the_Bus.sql) |
 | 1164 | Product Price at a Given Date | Window Function / UNION | [.sql](./SQL/Window_Functions/1164_Product_Price_at_a_Given_Date.sql) |
+| 601 | Human Traffic of Stadium | CTE / Gaps & Islands | [.sql](./SQL/Window_Functions/601_Human_Traffic_of_Stadium.sql) |
+
 ### **String Functions (Работа со строками)**
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
@@ -168,10 +171,10 @@
 ### **Aggregation (Группировка)**
 | # | Название задачи | Тема | Решение |
 |---|-----------------|------|---------|
-| 1174 | Immediate Food Delivery II | Medium | CTE / LEFT JOIN / Fractions | [.sql](./SQL/Aggregation/1174_Immediate_Food_Delivery_II.sql) |
-| 1045 | Customers Who Bought All Products | Medium | GROUP BY / Subquery | [.sql](./SQL/Aggregation/1045_Customers_Who_Bought_All_Products.sql) |
-| 570 | Managers with at Least 5 Direct Reports | Medium | CTE / HAVING / JOIN | [.sql](./SQL/Aggregation/570_Managers_with_at_Least_5_Direct_Reports.sql) |
-| 550 | Game Play Analysis IV | Medium | CTE / LEFT JOIN / Retention | [.sql](./SQL/Aggregation/550_Game_Play_Analysis_IV.sql) |
+| 1174 | Immediate Food Delivery II | CTE / LEFT JOIN / Fractions | [.sql](./SQL/Aggregation/1174_Immediate_Food_Delivery_II.sql) |
+| 1045 | Customers Who Bought All Products | GROUP BY / Subquery | [.sql](./SQL/Aggregation/1045_Customers_Who_Bought_All_Products.sql) |
+| 570 | Managers with at Least 5 Direct Reports | CTE / HAVING / JOIN | [.sql](./SQL/Aggregation/570_Managers_with_at_Least_5_Direct_Reports.sql) |
+| 550 | Game Play Analysis IV | CTE / LEFT JOIN / Retention | [.sql](./SQL/Aggregation/550_Game_Play_Analysis_IV.sql) |
 | 1211 | Queries Quality and Percentage | Group By / CASE WHEN | [.sql](./SQL/Aggregation/1211_Queries_Quality_Percentage.sql) |
 | 1934 | Confirmation Rate | LEFT JOIN / CASE WHEN | [.sql](./SQL/Aggregation/1934_Confirmation_Rate.sql) |
 | 1050 | Actors and Directors Who Cooperated | Group By / Having | [.sql](./SQL/Aggregation/1050_Actors_Directors.sql) |
