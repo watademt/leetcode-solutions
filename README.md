@@ -111,6 +111,7 @@
 | 125 | Valid Palindrome | Easy | String / Two Pointers | [Python](./Python/125_Palindrome.py) |
 | 11 | Container With Most Water | Medium | Two Pointers | [Python](./Python/11_Container_With_Most_Water.py) |
 | 15 | 3Sum | Medium | Array / Two Pointers / Sorting | [Python](./Python/15_3Sum.py) |
+| 42 | Trapping Rain Water | Hard | Array / Two Pointers | [Python](./Python/42_Trapping_Rain_Water.py) |
 
 ### **Бинарный поиск и Матрицы**
 | # | Название задачи | Сложность | Тема | Решение |
@@ -149,6 +150,7 @@
 |---|-----------------|------|---------|
 | 626 | Exchange Seats | CASE / Modulo | [.sql](./SQL/Control_Flow/626_Exchange_Seats.sql) |
 | 1873 | Calculate Special Bonus | CASE WHEN | [.sql](./SQL/Control_Flow/1873_Calculate_Special_Bonus.sql) |
+| 608 | Tree Node | CASE WHEN / Subquery | [.sql](./SQL/Control_Flow/608_Tree_Node.sql) |
 
 ### **Window Functions (Оконные функции)**
 | # | Название задачи | Тема | Решение |
